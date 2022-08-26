@@ -18,6 +18,7 @@ terraform {
       name = "gh-actions-demo"
     }
   }
+  
 }
 
 provider "aws" {
